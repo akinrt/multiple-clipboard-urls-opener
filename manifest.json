@@ -1,8 +1,12 @@
 {
     "name": "Multiple clipboard URLs Opener",
+    "short_name": "Open new Tabs",
+    "author": "akinrt",
+    "update_url": "https://github.com/akinrt/multiple-clipboard-urls-opener/blob/master/CHANGELOG.md",
     "version": "0.0.1",
     "manifest_version": 2,
     "description": "Open multiple clipboard URLs in a tab at once.",
+    "default_locale": "en",
     "permissions": [
         "clipboardRead",
         "tabs"
